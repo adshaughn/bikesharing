@@ -1,5 +1,7 @@
 ### CitiBike in New York - Analysis for August 2019
 
+[Link to Dashboard](https://public.tableau.com/shared/TBMW5FN32?:display_count=n&:origin=viz_share_link)
+
 ## Overview
 
 - The purpose of this analysis is to provide an overview of of New York City's CitiBike bikesharing program, in order to determine its suitability for export to other geos (in particular, Des Moines IA).
